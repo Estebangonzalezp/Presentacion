@@ -1,0 +1,137 @@
+body{
+    background-image: url(/img/foto\ 4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+.cuadro{
+    background-color: rgb(249, 255, 255);
+    width: 10;
+    height: 150vh;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    margin-bottom: 20px;
+ }
+
+
+ .img1{
+    width: 9vh;
+    height: 9vh;
+    margin-left: 10px;
+    margin-top: 25px;
+    margin: auto;
+    float: left;
+ }
+
+ .img2{
+    width: 40vh;
+    height:65vh;
+    margin-left: 10px;
+    margin-top: 25px;
+    margin: auto;
+    float: left;
+ }
+
+ .img4{
+    width: 40vh;
+    height: 55vh;
+    margin-left: 20px;
+    margin-top: 60px;
+    margin-right: px;
+    float: left;
+ }
+
+ nav  {
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    right: 0;
+    left: 0;
+    display: flex;
+
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li{
+    margin-right: 20px;
+
+}
+nav ul li a {
+    border: 3px solid;
+    color: rgb(247, 247, 247);
+    text-decoration: none;
+    padding:6px;
+    border-radius: 10px;
+}
+  
+.exp {
+
+margin-left: 10px;
+margin-right: 30px;
+color: rgb(255, 255, 255);
+border: rgb(0, 0, 0);
+background-color: rgb(0, 0, 0);
+border-radius: 10px;
+padding: 20px;
+}
+
+.exp1 {
+
+    margin-left: 300px;
+    margin-right: 30px;
+    color: rgb(255, 255, 255);
+    border: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 0);
+    border-radius: 20px;
+    padding: 15px;
+    margin-top: 70px;
+    }
+
+.content-2{
+    display: flex;
+    flex-direction: row;   
+}
+
+.img3{
+    width: 30vh;
+    height: 40vh;
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-right: px;
+    float: left;
+    
+ }
+
+ .img5{
+    width: 30vh;
+    height: 30vh;
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-right: px;
+    float: left;
+    
+ }
+
+
+.tex12{
+    margin-top: 100px;
+    margin-left: 320px;
+}
+
+.exp2 {
+
+    margin-left: 320px;
+    margin-right: 30px;
+    color: rgb(0, 0, 0);
+    border: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    padding: 10px;
+    margin-top: px;
+    }
